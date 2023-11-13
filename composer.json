@@ -1,0 +1,11 @@
+{
+    "name": "qi/sistema_de_chamados",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Qi\\SistemaDeChamados\\": "src/"
+        }
+    },
+    "require": {}
+}
